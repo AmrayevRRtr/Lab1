@@ -20,10 +20,10 @@ print(type(x))
 
 list
 ex5
-x = ["apple", "banana", "cherry"]
+x = ("apple", "banana", "cherry")
 print(type(x))
 
-list
+tuple
 ex6
 x = {"name" : "John", "age" : 36}
 print(type(x))
